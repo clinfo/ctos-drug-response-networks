@@ -4,7 +4,7 @@ A public release repository for reproducing derived, figure-facing analyses from
 
 Repository URL: `https://github.com/clinfo/ctos-drug-response-networks`
 
-Archived release DOI: `10.5281/zenodo.20042701`
+Archived release DOI: `10.5281/zenodo.20043756`
 
 Previous archived release DOI: `10.5281/zenodo.19645738`
 
@@ -113,7 +113,7 @@ Items that still require release-day confirmation include controlled-access word
 
 If you use this repository, cite the accompanying manuscript and the archived software release:
 
-Ota, A., and Sakuragi, M. (2026). ctos-drug-response-networks: derived-data release for colorectal cancer organoid drug-response and resistance analyses. Zenodo. https://doi.org/10.5281/zenodo.20042701
+Ota, A., and Sakuragi, M. (2026). ctos-drug-response-networks: derived-data release for colorectal cancer organoid drug-response and resistance analyses. Zenodo. https://doi.org/10.5281/zenodo.20043756
 
 ## License
 
