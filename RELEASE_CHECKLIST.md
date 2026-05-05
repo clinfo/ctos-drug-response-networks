@@ -22,7 +22,7 @@
 
 - [ ] Confirm the controlled-access sequencing accession and wording on the release day.
 - [ ] Confirm the foundation-network registry record on the release day.
-- [x] Reserve the Zenodo new-version DOI: `10.5281/zenodo.20042701`.
+- [x] Reserve the Zenodo new-version DOI: `10.5281/zenodo.20043756`.
 - [x] Update `README.md`, `CITATION.cff`, `.zenodo.json`, and `config/default.yaml` with the reserved DOI and release URL.
 - [ ] Update the manuscript availability statements with the final DOI and release URL.
 - [ ] Re-check that manuscript data/code availability wording matches the repository, EGA record, NDEx record, GitHub release, and Zenodo archive.

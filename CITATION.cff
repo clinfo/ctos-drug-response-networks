@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, cite the accompanying manuscript and the archived software release."
 title: "ctos-drug-response-networks"
 version: "0.1.0"
-doi: "10.5281/zenodo.20042701"
+doi: "10.5281/zenodo.20043756"
 url: "https://github.com/clinfo/ctos-drug-response-networks"
 abstract: "Public release repository for reproducing derived, figure-facing analyses from colorectal cancer organoid drug-response and resistance data."
 type: software

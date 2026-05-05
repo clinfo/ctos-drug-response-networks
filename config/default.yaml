@@ -1,7 +1,7 @@
 project:
   display_name: ctos-drug-response-networks
   release_version: 0.1.0
-  doi: 10.5281/zenodo.20042701
+  doi: 10.5281/zenodo.20043756
   repo_url: https://github.com/clinfo/ctos-drug-response-networks
 paths:
   sample_map: docs/sample_map.tsv
