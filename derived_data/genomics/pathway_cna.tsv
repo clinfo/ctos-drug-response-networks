@@ -1,0 +1,7 @@
+patient_id	drug	gene	cna_value
+KUC17	cetuximab	MET	1.2
+KUC17	cetuximab	ERBB2	1.05
+C138	cetuximab	EGFR	0.92
+C166	cetuximab	EGFR	0.95
+C166	LDN193189	BMPR2	-0.25
+C132	LDN193189	SMAD4	-0.18

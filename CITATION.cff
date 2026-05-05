@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the accompanying manuscript and the archived software release."
+title: "ctos-drug-response-networks"
+version: "0.1.0"
+doi: "10.5281/zenodo.20042701"
+url: "https://github.com/clinfo/ctos-drug-response-networks"
+abstract: "Public release repository for reproducing derived, figure-facing analyses from colorectal cancer organoid drug-response and resistance data."
+type: software
+authors:
+  - family-names: Ota
+    given-names: A.
+  - family-names: Sakuragi
+    given-names: M.
+keywords:
+  - colorectal cancer
+  - organoids
+  - drug response
+  - regulatory networks
+  - transcriptomics

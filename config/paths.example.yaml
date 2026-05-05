@@ -1,0 +1,24 @@
+project:
+  display_name: ctos-drug-response-networks
+  release_version: 0.1.0
+  doi: null
+  repo_url: null
+paths:
+  sample_map: docs/sample_map.tsv
+  figure_map: docs/figure_to_script_map.tsv
+  network_manifest: docs/network_manifest.tsv
+  path_map: docs/path_map.tsv
+  derived_root: derived_data
+  output_root: outputs
+route:
+  default_route: derived
+  allow_raw_route: true
+  raw_route_mode: documented-only
+figures:
+  enabled_families: [fig2, fig3, fig4, fig5, fig6]
+validation:
+  run_smoke_tests: true
+  run_leakage_scan: true
+  strict_schema: true
+policy:
+  forbidden_strings: []

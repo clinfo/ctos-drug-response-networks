@@ -1,0 +1,191 @@
+sample_id	patient_id	experiment	drug	timepoint	replicate	library_prep	platform	file_r1	file_r2
+C45_WES	C45	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_001_1_1.fastq.gz.c4gh	EX_5429_001_1_2.fastq.gz.c4gh
+C132_WES	C132	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_002_1_1.fastq.gz.c4gh	EX_5429_002_1_2.fastq.gz.c4gh
+C138_WES	C138	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_003_1_1.fastq.gz.c4gh	EX_5429_003_1_2.fastq.gz.c4gh
+C166_WES	C166	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_004_1_1.fastq.gz.c4gh	EX_5429_004_1_2.fastq.gz.c4gh
+C307_WES	C307	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_005_1_1.fastq.gz.c4gh	EX_5429_005_1_2.fastq.gz.c4gh
+C324_WES	C324	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_006_1_1.fastq.gz.c4gh	EX_5429_006_1_2.fastq.gz.c4gh
+CB3_WES	CB3	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_007_1_1.fastq.gz.c4gh	EX_5429_007_1_2.fastq.gz.c4gh
+KUC3_WES	KUC3	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_008_1_1.fastq.gz.c4gh	EX_5429_008_1_2.fastq.gz.c4gh
+KUC17_WES	KUC17	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_009_1_1.fastq.gz.c4gh	EX_5429_009_1_2.fastq.gz.c4gh
+KUC21_WES	KUC21	WXS	None	before drug administration	None	SureSelect XT Human All Exon V6 Kit	Illumina NovaSeq 6000	EX_5429_010_1_1.fastq.gz.c4gh	EX_5429_010_1_2.fastq.gz.c4gh
+RNA_001	C45	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_001_1_1.fastq.gz.c4gh	TR_5430_001_1_2.fastq.gz.c4gh
+RNA_002	C45	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_002_1_1.fastq.gz.c4gh	TR_5430_002_1_2.fastq.gz.c4gh
+RNA_003	C45	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_003_1_1.fastq.gz.c4gh	TR_5430_003_1_2.fastq.gz.c4gh
+RNA_004	C45	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_004_1_1.fastq.gz.c4gh	TR_5430_004_1_2.fastq.gz.c4gh
+RNA_005	C45	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_005_1_1.fastq.gz.c4gh	TR_5430_005_1_2.fastq.gz.c4gh
+RNA_006	C45	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_006_1_1.fastq.gz.c4gh	TR_5430_006_1_2.fastq.gz.c4gh
+RNA_007	C45	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_007_1_1.fastq.gz.c4gh	TR_5430_007_1_2.fastq.gz.c4gh
+RNA_008	C45	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_008_1_1.fastq.gz.c4gh	TR_5430_008_1_2.fastq.gz.c4gh
+RNA_009	C45	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_009_1_1.fastq.gz.c4gh	TR_5430_009_1_2.fastq.gz.c4gh
+RNA_010	C45	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_010_1_1.fastq.gz.c4gh	TR_5430_010_1_2.fastq.gz.c4gh
+RNA_011	C45	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_011_1_1.fastq.gz.c4gh	TR_5430_011_1_2.fastq.gz.c4gh
+RNA_012	C45	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_012_1_1.fastq.gz.c4gh	TR_5430_012_1_2.fastq.gz.c4gh
+RNA_013	C45	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_013_1_1.fastq.gz.c4gh	TR_5430_013_1_2.fastq.gz.c4gh
+RNA_014	C45	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_014_1_1.fastq.gz.c4gh	TR_5430_014_1_2.fastq.gz.c4gh
+RNA_015	C45	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_015_1_1.fastq.gz.c4gh	TR_5430_015_1_2.fastq.gz.c4gh
+RNA_016	C45	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_016_1_1.fastq.gz.c4gh	TR_5430_016_1_2.fastq.gz.c4gh
+RNA_017	C45	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_017_1_1.fastq.gz.c4gh	TR_5430_017_1_2.fastq.gz.c4gh
+RNA_018	C45	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_018_1_1.fastq.gz.c4gh	TR_5430_018_1_2.fastq.gz.c4gh
+RNA_019	C132	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_019_1_1.fastq.gz.c4gh	TR_5430_019_1_2.fastq.gz.c4gh
+RNA_020	C132	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_020_1_1.fastq.gz.c4gh	TR_5430_020_1_2.fastq.gz.c4gh
+RNA_021	C132	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_021_1_1.fastq.gz.c4gh	TR_5430_021_1_2.fastq.gz.c4gh
+RNA_022	C132	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_022_1_1.fastq.gz.c4gh	TR_5430_022_1_2.fastq.gz.c4gh
+RNA_023	C132	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_023_1_1.fastq.gz.c4gh	TR_5430_023_1_2.fastq.gz.c4gh
+RNA_024	C132	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_024_1_1.fastq.gz.c4gh	TR_5430_024_1_2.fastq.gz.c4gh
+RNA_025	C132	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_025_1_1.fastq.gz.c4gh	TR_5430_025_1_2.fastq.gz.c4gh
+RNA_026	C132	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_026_1_1.fastq.gz.c4gh	TR_5430_026_1_2.fastq.gz.c4gh
+RNA_027	C132	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_027_1_1.fastq.gz.c4gh	TR_5430_027_1_2.fastq.gz.c4gh
+RNA_028	C132	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_028_1_1.fastq.gz.c4gh	TR_5430_028_1_2.fastq.gz.c4gh
+RNA_029	C132	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_029_1_1.fastq.gz.c4gh	TR_5430_029_1_2.fastq.gz.c4gh
+RNA_030	C132	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_030_1_1.fastq.gz.c4gh	TR_5430_030_1_2.fastq.gz.c4gh
+RNA_031	C132	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_031_1_1.fastq.gz.c4gh	TR_5430_031_1_2.fastq.gz.c4gh
+RNA_032	C132	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_032_1_1.fastq.gz.c4gh	TR_5430_032_1_2.fastq.gz.c4gh
+RNA_033	C132	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_033_1_1.fastq.gz.c4gh	TR_5430_033_1_2.fastq.gz.c4gh
+RNA_034	C132	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_034_1_1.fastq.gz.c4gh	TR_5430_034_1_2.fastq.gz.c4gh
+RNA_035	C132	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_035_1_1.fastq.gz.c4gh	TR_5430_035_1_2.fastq.gz.c4gh
+RNA_036	C132	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_036_1_1.fastq.gz.c4gh	TR_5430_036_1_2.fastq.gz.c4gh
+RNA_037	C138	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_037_1_1.fastq.gz.c4gh	TR_5430_037_1_2.fastq.gz.c4gh
+RNA_038	C138	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_038_1_1.fastq.gz.c4gh	TR_5430_038_1_2.fastq.gz.c4gh
+RNA_039	C138	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_039_1_1.fastq.gz.c4gh	TR_5430_039_1_2.fastq.gz.c4gh
+RNA_040	C138	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_040_1_1.fastq.gz.c4gh	TR_5430_040_1_2.fastq.gz.c4gh
+RNA_041	C138	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_041_1_1.fastq.gz.c4gh	TR_5430_041_1_2.fastq.gz.c4gh
+RNA_042	C138	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_042_1_1.fastq.gz.c4gh	TR_5430_042_1_2.fastq.gz.c4gh
+RNA_043	C138	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_043_1_1.fastq.gz.c4gh	TR_5430_043_1_2.fastq.gz.c4gh
+RNA_044	C138	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_044_1_1.fastq.gz.c4gh	TR_5430_044_1_2.fastq.gz.c4gh
+RNA_045	C138	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_045_1_1.fastq.gz.c4gh	TR_5430_045_1_2.fastq.gz.c4gh
+RNA_046	C138	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_046_1_1.fastq.gz.c4gh	TR_5430_046_1_2.fastq.gz.c4gh
+RNA_047	C138	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_047_1_1.fastq.gz.c4gh	TR_5430_047_1_2.fastq.gz.c4gh
+RNA_048	C138	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_048_1_1.fastq.gz.c4gh	TR_5430_048_1_2.fastq.gz.c4gh
+RNA_049	C138	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_049_1_1.fastq.gz.c4gh	TR_5430_049_1_2.fastq.gz.c4gh
+RNA_050	C138	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_050_1_1.fastq.gz.c4gh	TR_5430_050_1_2.fastq.gz.c4gh
+RNA_051	C138	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_051_1_1.fastq.gz.c4gh	TR_5430_051_1_2.fastq.gz.c4gh
+RNA_052	C138	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_052_1_1.fastq.gz.c4gh	TR_5430_052_1_2.fastq.gz.c4gh
+RNA_053	C138	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_053_1_1.fastq.gz.c4gh	TR_5430_053_1_2.fastq.gz.c4gh
+RNA_054	C138	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_054_1_1.fastq.gz.c4gh	TR_5430_054_1_2.fastq.gz.c4gh
+RNA_055	C166	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_055_1_1.fastq.gz.c4gh	TR_5430_055_1_2.fastq.gz.c4gh
+RNA_056	C166	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_056_1_1.fastq.gz.c4gh	TR_5430_056_1_2.fastq.gz.c4gh
+RNA_057	C166	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_057_1_1.fastq.gz.c4gh	TR_5430_057_1_2.fastq.gz.c4gh
+RNA_058	C166	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_058_1_1.fastq.gz.c4gh	TR_5430_058_1_2.fastq.gz.c4gh
+RNA_059	C166	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_059_1_1.fastq.gz.c4gh	TR_5430_059_1_2.fastq.gz.c4gh
+RNA_060	C166	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_060_1_1.fastq.gz.c4gh	TR_5430_060_1_2.fastq.gz.c4gh
+RNA_061	C166	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_061_1_1.fastq.gz.c4gh	TR_5430_061_1_2.fastq.gz.c4gh
+RNA_062	C166	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_062_1_1.fastq.gz.c4gh	TR_5430_062_1_2.fastq.gz.c4gh
+RNA_063	C166	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_063_1_1.fastq.gz.c4gh	TR_5430_063_1_2.fastq.gz.c4gh
+RNA_064	C166	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_064_1_1.fastq.gz.c4gh	TR_5430_064_1_2.fastq.gz.c4gh
+RNA_065	C166	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_065_1_1.fastq.gz.c4gh	TR_5430_065_1_2.fastq.gz.c4gh
+RNA_066	C166	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_066_1_1.fastq.gz.c4gh	TR_5430_066_1_2.fastq.gz.c4gh
+RNA_067	C166	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_067_1_1.fastq.gz.c4gh	TR_5430_067_1_2.fastq.gz.c4gh
+RNA_068	C166	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_068_1_1.fastq.gz.c4gh	TR_5430_068_1_2.fastq.gz.c4gh
+RNA_069	C166	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_069_1_1.fastq.gz.c4gh	TR_5430_069_1_2.fastq.gz.c4gh
+RNA_070	C166	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_070_1_1.fastq.gz.c4gh	TR_5430_070_1_2.fastq.gz.c4gh
+RNA_071	C166	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_071_1_1.fastq.gz.c4gh	TR_5430_071_1_2.fastq.gz.c4gh
+RNA_072	C166	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_072_1_1.fastq.gz.c4gh	TR_5430_072_1_2.fastq.gz.c4gh
+RNA_073	C307	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_073_1_1.fastq.gz.c4gh	TR_5430_073_1_2.fastq.gz.c4gh
+RNA_074	C307	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_074_1_1.fastq.gz.c4gh	TR_5430_074_1_2.fastq.gz.c4gh
+RNA_075	C307	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_075_1_1.fastq.gz.c4gh	TR_5430_075_1_2.fastq.gz.c4gh
+RNA_076	C307	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_076_1_1.fastq.gz.c4gh	TR_5430_076_1_2.fastq.gz.c4gh
+RNA_077	C307	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_077_1_1.fastq.gz.c4gh	TR_5430_077_1_2.fastq.gz.c4gh
+RNA_078	C307	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_078_1_1.fastq.gz.c4gh	TR_5430_078_1_2.fastq.gz.c4gh
+RNA_079	C307	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_079_1_1.fastq.gz.c4gh	TR_5430_079_1_2.fastq.gz.c4gh
+RNA_080	C307	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_080_1_1.fastq.gz.c4gh	TR_5430_080_1_2.fastq.gz.c4gh
+RNA_081	C307	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_081_1_1.fastq.gz.c4gh	TR_5430_081_1_2.fastq.gz.c4gh
+RNA_082	C307	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_082_1_1.fastq.gz.c4gh	TR_5430_082_1_2.fastq.gz.c4gh
+RNA_083	C307	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_083_1_1.fastq.gz.c4gh	TR_5430_083_1_2.fastq.gz.c4gh
+RNA_084	C307	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_084_1_1.fastq.gz.c4gh	TR_5430_084_1_2.fastq.gz.c4gh
+RNA_085	C307	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_085_1_1.fastq.gz.c4gh	TR_5430_085_1_2.fastq.gz.c4gh
+RNA_086	C307	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_086_1_1.fastq.gz.c4gh	TR_5430_086_1_2.fastq.gz.c4gh
+RNA_087	C307	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_087_1_1.fastq.gz.c4gh	TR_5430_087_1_2.fastq.gz.c4gh
+RNA_088	C307	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_088_1_1.fastq.gz.c4gh	TR_5430_088_1_2.fastq.gz.c4gh
+RNA_089	C307	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_089_1_1.fastq.gz.c4gh	TR_5430_089_1_2.fastq.gz.c4gh
+RNA_090	C307	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_090_1_1.fastq.gz.c4gh	TR_5430_090_1_2.fastq.gz.c4gh
+RNA_091	C324	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_091_1_1.fastq.gz.c4gh	TR_5430_091_1_2.fastq.gz.c4gh
+RNA_092	C324	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_092_1_1.fastq.gz.c4gh	TR_5430_092_1_2.fastq.gz.c4gh
+RNA_093	C324	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_093_1_1.fastq.gz.c4gh	TR_5430_093_1_2.fastq.gz.c4gh
+RNA_094	C324	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_094_1_1.fastq.gz.c4gh	TR_5430_094_1_2.fastq.gz.c4gh
+RNA_095	C324	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_095_1_1.fastq.gz.c4gh	TR_5430_095_1_2.fastq.gz.c4gh
+RNA_096	C324	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_096_1_1.fastq.gz.c4gh	TR_5430_096_1_2.fastq.gz.c4gh
+RNA_097	C324	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_097_1_1.fastq.gz.c4gh	TR_5430_097_1_2.fastq.gz.c4gh
+RNA_098	C324	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_098_1_1.fastq.gz.c4gh	TR_5430_098_1_2.fastq.gz.c4gh
+RNA_099	C324	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_099_1_1.fastq.gz.c4gh	TR_5430_099_1_2.fastq.gz.c4gh
+RNA_100	C324	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_100_1_1.fastq.gz.c4gh	TR_5430_100_1_2.fastq.gz.c4gh
+RNA_101	C324	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_101_1_1.fastq.gz.c4gh	TR_5430_101_1_2.fastq.gz.c4gh
+RNA_102	C324	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_102_1_1.fastq.gz.c4gh	TR_5430_102_1_2.fastq.gz.c4gh
+RNA_103	C324	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_103_1_1.fastq.gz.c4gh	TR_5430_103_1_2.fastq.gz.c4gh
+RNA_104	C324	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_104_1_1.fastq.gz.c4gh	TR_5430_104_1_2.fastq.gz.c4gh
+RNA_105	C324	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_105_1_1.fastq.gz.c4gh	TR_5430_105_1_2.fastq.gz.c4gh
+RNA_106	C324	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_106_1_1.fastq.gz.c4gh	TR_5430_106_1_2.fastq.gz.c4gh
+RNA_107	C324	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_107_1_1.fastq.gz.c4gh	TR_5430_107_1_2.fastq.gz.c4gh
+RNA_108	C324	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_108_1_1.fastq.gz.c4gh	TR_5430_108_1_2.fastq.gz.c4gh
+RNA_109	CB3	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_109_1_1.fastq.gz.c4gh	TR_5430_109_1_2.fastq.gz.c4gh
+RNA_110	CB3	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_110_1_1.fastq.gz.c4gh	TR_5430_110_1_2.fastq.gz.c4gh
+RNA_111	CB3	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_111_1_1.fastq.gz.c4gh	TR_5430_111_1_2.fastq.gz.c4gh
+RNA_112	CB3	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_112_1_1.fastq.gz.c4gh	TR_5430_112_1_2.fastq.gz.c4gh
+RNA_113	CB3	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_113_1_1.fastq.gz.c4gh	TR_5430_113_1_2.fastq.gz.c4gh
+RNA_114	CB3	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_114_1_1.fastq.gz.c4gh	TR_5430_114_1_2.fastq.gz.c4gh
+RNA_115	CB3	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_115_1_1.fastq.gz.c4gh	TR_5430_115_1_2.fastq.gz.c4gh
+RNA_116	CB3	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_116_1_1.fastq.gz.c4gh	TR_5430_116_1_2.fastq.gz.c4gh
+RNA_117	CB3	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_117_1_1.fastq.gz.c4gh	TR_5430_117_1_2.fastq.gz.c4gh
+RNA_118	CB3	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_118_1_1.fastq.gz.c4gh	TR_5430_118_1_2.fastq.gz.c4gh
+RNA_119	CB3	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_119_1_1.fastq.gz.c4gh	TR_5430_119_1_2.fastq.gz.c4gh
+RNA_120	CB3	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_120_1_1.fastq.gz.c4gh	TR_5430_120_1_2.fastq.gz.c4gh
+RNA_121	CB3	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_121_1_1.fastq.gz.c4gh	TR_5430_121_1_2.fastq.gz.c4gh
+RNA_122	CB3	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_122_1_1.fastq.gz.c4gh	TR_5430_122_1_2.fastq.gz.c4gh
+RNA_123	CB3	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_123_1_1.fastq.gz.c4gh	TR_5430_123_1_2.fastq.gz.c4gh
+RNA_124	CB3	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_124_1_1.fastq.gz.c4gh	TR_5430_124_1_2.fastq.gz.c4gh
+RNA_125	CB3	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_125_1_1.fastq.gz.c4gh	TR_5430_125_1_2.fastq.gz.c4gh
+RNA_126	CB3	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_126_1_1.fastq.gz.c4gh	TR_5430_126_1_2.fastq.gz.c4gh
+RNA_127	KUC3	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_127_1_1.fastq.gz.c4gh	TR_5430_127_1_2.fastq.gz.c4gh
+RNA_128	KUC3	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_128_1_1.fastq.gz.c4gh	TR_5430_128_1_2.fastq.gz.c4gh
+RNA_129	KUC3	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_129_1_1.fastq.gz.c4gh	TR_5430_129_1_2.fastq.gz.c4gh
+RNA_130	KUC3	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_130_1_1.fastq.gz.c4gh	TR_5430_130_1_2.fastq.gz.c4gh
+RNA_131	KUC3	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_131_1_1.fastq.gz.c4gh	TR_5430_131_1_2.fastq.gz.c4gh
+RNA_132	KUC3	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_132_1_1.fastq.gz.c4gh	TR_5430_132_1_2.fastq.gz.c4gh
+RNA_133	KUC3	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_133_1_1.fastq.gz.c4gh	TR_5430_133_1_2.fastq.gz.c4gh
+RNA_134	KUC3	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_134_1_1.fastq.gz.c4gh	TR_5430_134_1_2.fastq.gz.c4gh
+RNA_135	KUC3	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_135_1_1.fastq.gz.c4gh	TR_5430_135_1_2.fastq.gz.c4gh
+RNA_136	KUC3	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_136_1_1.fastq.gz.c4gh	TR_5430_136_1_2.fastq.gz.c4gh
+RNA_137	KUC3	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_137_1_1.fastq.gz.c4gh	TR_5430_137_1_2.fastq.gz.c4gh
+RNA_138	KUC3	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_138_1_1.fastq.gz.c4gh	TR_5430_138_1_2.fastq.gz.c4gh
+RNA_139	KUC3	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_139_1_1.fastq.gz.c4gh	TR_5430_139_1_2.fastq.gz.c4gh
+RNA_140	KUC3	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_140_1_1.fastq.gz.c4gh	TR_5430_140_1_2.fastq.gz.c4gh
+RNA_141	KUC3	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_141_1_1.fastq.gz.c4gh	TR_5430_141_1_2.fastq.gz.c4gh
+RNA_142	KUC3	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_142_1_1.fastq.gz.c4gh	TR_5430_142_1_2.fastq.gz.c4gh
+RNA_143	KUC3	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_143_1_1.fastq.gz.c4gh	TR_5430_143_1_2.fastq.gz.c4gh
+RNA_144	KUC3	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_144_1_1.fastq.gz.c4gh	TR_5430_144_1_2.fastq.gz.c4gh
+RNA_145	KUC17	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_145_1_1.fastq.gz.c4gh	TR_5430_145_1_2.fastq.gz.c4gh
+RNA_146	KUC17	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_146_1_1.fastq.gz.c4gh	TR_5430_146_1_2.fastq.gz.c4gh
+RNA_147	KUC17	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_147_1_1.fastq.gz.c4gh	TR_5430_147_1_2.fastq.gz.c4gh
+RNA_148	KUC17	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_148_1_1.fastq.gz.c4gh	TR_5430_148_1_2.fastq.gz.c4gh
+RNA_149	KUC17	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_149_1_1.fastq.gz.c4gh	TR_5430_149_1_2.fastq.gz.c4gh
+RNA_150	KUC17	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_150_1_1.fastq.gz.c4gh	TR_5430_150_1_2.fastq.gz.c4gh
+RNA_151	KUC17	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_151_1_1.fastq.gz.c4gh	TR_5430_151_1_2.fastq.gz.c4gh
+RNA_152	KUC17	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_152_1_1.fastq.gz.c4gh	TR_5430_152_1_2.fastq.gz.c4gh
+RNA_153	KUC17	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_153_1_1.fastq.gz.c4gh	TR_5430_153_1_2.fastq.gz.c4gh
+RNA_154	KUC17	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_154_1_1.fastq.gz.c4gh	TR_5430_154_1_2.fastq.gz.c4gh
+RNA_155	KUC17	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_155_1_1.fastq.gz.c4gh	TR_5430_155_1_2.fastq.gz.c4gh
+RNA_156	KUC17	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_156_1_1.fastq.gz.c4gh	TR_5430_156_1_2.fastq.gz.c4gh
+RNA_157	KUC17	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_157_1_1.fastq.gz.c4gh	TR_5430_157_1_2.fastq.gz.c4gh
+RNA_158	KUC17	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_158_1_1.fastq.gz.c4gh	TR_5430_158_1_2.fastq.gz.c4gh
+RNA_159	KUC17	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_159_1_1.fastq.gz.c4gh	TR_5430_159_1_2.fastq.gz.c4gh
+RNA_160	KUC17	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_160_1_1.fastq.gz.c4gh	TR_5430_160_1_2.fastq.gz.c4gh
+RNA_161	KUC17	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_161_1_1.fastq.gz.c4gh	TR_5430_161_1_2.fastq.gz.c4gh
+RNA_162	KUC17	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_162_1_1.fastq.gz.c4gh	TR_5430_162_1_2.fastq.gz.c4gh
+RNA_163	KUC21	RNA-seq	None	before drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_163_1_1.fastq.gz.c4gh	TR_5430_163_1_2.fastq.gz.c4gh
+RNA_164	KUC21	RNA-seq	None	before drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_164_1_1.fastq.gz.c4gh	TR_5430_164_1_2.fastq.gz.c4gh
+RNA_165	KUC21	RNA-seq	None	before drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_165_1_1.fastq.gz.c4gh	TR_5430_165_1_2.fastq.gz.c4gh
+RNA_166	KUC21	RNA-seq	LDN193189	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_166_1_1.fastq.gz.c4gh	TR_5430_166_1_2.fastq.gz.c4gh
+RNA_167	KUC21	RNA-seq	LDN193189	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_167_1_1.fastq.gz.c4gh	TR_5430_167_1_2.fastq.gz.c4gh
+RNA_168	KUC21	RNA-seq	LDN193189	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_168_1_1.fastq.gz.c4gh	TR_5430_168_1_2.fastq.gz.c4gh
+RNA_169	KUC21	RNA-seq	trametinib	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_169_1_1.fastq.gz.c4gh	TR_5430_169_1_2.fastq.gz.c4gh
+RNA_170	KUC21	RNA-seq	trametinib	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_170_1_1.fastq.gz.c4gh	TR_5430_170_1_2.fastq.gz.c4gh
+RNA_171	KUC21	RNA-seq	trametinib	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_171_1_1.fastq.gz.c4gh	TR_5430_171_1_2.fastq.gz.c4gh
+RNA_172	KUC21	RNA-seq	GDC0941	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_172_1_1.fastq.gz.c4gh	TR_5430_172_1_2.fastq.gz.c4gh
+RNA_173	KUC21	RNA-seq	GDC0941	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_173_1_1.fastq.gz.c4gh	TR_5430_173_1_2.fastq.gz.c4gh
+RNA_174	KUC21	RNA-seq	GDC0941	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_174_1_1.fastq.gz.c4gh	TR_5430_174_1_2.fastq.gz.c4gh
+RNA_175	KUC21	RNA-seq	XAV939	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_175_1_1.fastq.gz.c4gh	TR_5430_175_1_2.fastq.gz.c4gh
+RNA_176	KUC21	RNA-seq	XAV939	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_176_1_1.fastq.gz.c4gh	TR_5430_176_1_2.fastq.gz.c4gh
+RNA_177	KUC21	RNA-seq	XAV939	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_177_1_1.fastq.gz.c4gh	TR_5430_177_1_2.fastq.gz.c4gh
+RNA_178	KUC21	RNA-seq	cetuximab	8 h after drug administration	1	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_178_1_1.fastq.gz.c4gh	TR_5430_178_1_2.fastq.gz.c4gh
+RNA_179	KUC21	RNA-seq	cetuximab	8 h after drug administration	2	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_179_1_1.fastq.gz.c4gh	TR_5430_179_1_2.fastq.gz.c4gh
+RNA_180	KUC21	RNA-seq	cetuximab	8 h after drug administration	3	TruSeq Stranded Total mRNA Sample Prep Kit	Illumina NovaSeq 6000	TR_5430_180_1_1.fastq.gz.c4gh	TR_5430_180_1_2.fastq.gz.c4gh

@@ -1,0 +1,5 @@
+drug	patient_id	source	target	is_missing
+LDN193189	resistant_group	G1	G2	1
+LDN193189	resistant_group	G3	G4	1
+cetuximab	resistant_group	H1	H2	1
+cetuximab	resistant_group	H3	H4	1

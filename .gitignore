@@ -1,0 +1,32 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local configuration
+config/paths.local.yaml
+*.local.yaml
+.env
+
+# Generated outputs
+/outputs/
+/figures/*
+!/figures/README.md
+/logs/*
+!/logs/leakage_scan.json
+
+# Packaging and build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary and editor files
+.DS_Store
+__MACOSX/
+*.bak
+*.tmp
+*~

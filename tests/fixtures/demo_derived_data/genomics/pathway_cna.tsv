@@ -1,0 +1,5 @@
+patient_id	drug	gene	cna_value
+P1	cetuximab	MET	0.2
+P2	cetuximab	ERBB2	1.0
+P3	LDN193189	SMAD4	-0.5
+P4	LDN193189	BMPR2	0.8

@@ -1,0 +1,6 @@
+figure_family	panel	module	primary_inputs	primary_output	notes
+fig2	all	genomics	derived_data/drug_response/drug_sensitivity_table.tsv;derived_data/genomics/pathway_mutations.tsv;derived_data/genomics/pathway_cna.tsv	figures/main/fig2.png	Genomic comparator
+fig3	all	transcriptomics	derived_data/drug_response/drug_sensitivity_table.tsv;derived_data/processed_expression/pathway_expression_long.tsv;derived_data/processed_expression/pathway_logfc_long.tsv;derived_data/processed_expression/deg_shared.tsv	figures/main/fig3.png	Expression clustering and shared DEGs
+fig4	all	networks	derived_data/networks/patient_network_nodes.tsv;derived_data/networks/patient_network_edges.tsv	figures/main/fig4.png	Patient-specific subnetworks
+fig5	all	networks	derived_data/networks/common_network_nodes.tsv;derived_data/networks/common_network_edges.tsv;derived_data/networks/resistant_missing_edges.tsv	figures/main/fig5.png	Common sensitivity networks and resistant missing edges
+fig6	all	qpcr_score	derived_data/validation/qpcr_long.tsv;derived_data/validation/score_summary.tsv	figures/main/fig6.png	qPCR follow-up and optional score summary

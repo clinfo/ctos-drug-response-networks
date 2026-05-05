@@ -1,0 +1,5 @@
+drug	patient_id	score	prediction	observed_label
+LDN193189	P1	0.83	sensitive	high_sensitivity
+LDN193189	P2	0.22	non-sensitive	resistant
+cetuximab	P1	0.77	sensitive	high_sensitivity
+cetuximab	P4	0.18	non-sensitive	resistant

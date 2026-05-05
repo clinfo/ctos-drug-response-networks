@@ -1,0 +1,10 @@
+data_type	stage	location	path	file_or_pattern	notes
+controlled_raw_wes_rnaseq	raw	external_registry	EGA accession EGAD50000002401	controlled-access sequencing files	Access route described in data_stub/ega_access_instructions.md.
+foundation_network	public_registry	external_registry	NDEx network bc42ae08-22b4-11f1-94e8-005056ae3c32	public network record	Access route described in data_stub/ndex_access_instructions.md.
+sample_map	derived	repo	docs/	sample_map.tsv	Canonical public sample inventory regenerated from docs/source_sample_metadata.tsv.
+panel_support_manifest	derived	repo	docs/	panel_support_asset_manifest.tsv	Asset-level provenance and fidelity classes.
+drug_response	derived	repo	derived_data/drug_response/	drug_sensitivity_table.tsv	Bundled exact release-safe asset.
+genomics_summary	derived	repo	derived_data/genomics/	pathway_mutations.tsv;pathway_cna.tsv	Bundled public Route A comparator summaries.
+expression_support	derived	repo	derived_data/processed_expression/	pathway_expression_long.tsv;pathway_logfc_long.tsv;deg_shared.tsv	Bundled Route A panel-support expression assets.
+network_support	derived	repo	derived_data/networks/	*.tsv	Bundled common-network, patient-network, and resistant-gap support assets.
+validation_support	derived	repo	derived_data/validation/	primer_list.tsv;qpcr_long.tsv;score_summary.tsv;score_model_*_coefficients.tsv	Bundled validation and score support assets.

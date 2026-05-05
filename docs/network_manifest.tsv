@@ -1,0 +1,15 @@
+figure_panel	drug	patient_id	asset_type	file_name	description
+Fig4A	LDN193189	C45	patient_network	derived_data/networks/patient_network_nodes.tsv	Patient-specific node table consumed with the matching edge table for the public-safe LDN193189 schematic panel.
+Fig4A	LDN193189	C45	patient_network	derived_data/networks/patient_network_edges.tsv	Patient-specific edge table for the public-safe LDN193189 schematic panel.
+Fig4B	LDN193189	C307	patient_network	derived_data/networks/patient_network_nodes.tsv	Patient-specific node table consumed with the matching edge table for the public-safe LDN193189 schematic panel.
+Fig4B	LDN193189	C307	patient_network	derived_data/networks/patient_network_edges.tsv	Patient-specific edge table for the public-safe LDN193189 schematic panel.
+Fig4C	LDN193189	CB3	patient_network	derived_data/networks/patient_network_nodes.tsv	Patient-specific node table consumed with the matching edge table for the public-safe LDN193189 schematic panel.
+Fig4C	LDN193189	CB3	patient_network	derived_data/networks/patient_network_edges.tsv	Patient-specific edge table for the public-safe LDN193189 schematic panel.
+Fig4D	LDN193189	C132	patient_network	derived_data/networks/patient_network_nodes.tsv	Patient-specific node table consumed with the matching edge table for the public-safe resistant LDN193189 schematic panel.
+Fig4D	LDN193189	C132	patient_network	derived_data/networks/patient_network_edges.tsv	Patient-specific edge table for the public-safe resistant LDN193189 schematic panel.
+Fig5A	LDN193189	common	common_network	derived_data/networks/common_network_edges.tsv	Exact archived common sensitivity edge set for LDN193189.
+Fig5A	LDN193189	common	common_network	derived_data/networks/common_network_nodes.tsv	Common sensitivity node table for LDN193189.
+Fig5B	cetuximab	common	common_network	derived_data/networks/common_network_edges.tsv	Exact archived common sensitivity edge set for cetuximab.
+Fig5B	cetuximab	common	common_network	derived_data/networks/common_network_nodes.tsv	Common sensitivity node table for cetuximab.
+Fig5C	LDN193189	resistant_group	missing_edge_map	derived_data/networks/resistant_missing_edges.tsv	Exact archived resistant missing-edge set for LDN193189.
+Fig5D	cetuximab	resistant_group	missing_edge_map	derived_data/networks/resistant_missing_edges.tsv	Exact archived resistant missing-edge set for cetuximab.

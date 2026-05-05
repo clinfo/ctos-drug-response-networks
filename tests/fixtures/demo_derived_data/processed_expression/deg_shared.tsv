@@ -1,0 +1,6 @@
+drug	gene	mean_logfc
+LDN193189	ID1	-2.1
+LDN193189	ID2	-1.7
+LDN193189	KLF4	0.9
+cetuximab	DUSP6	-1.2
+cetuximab	EGR1	-1.1

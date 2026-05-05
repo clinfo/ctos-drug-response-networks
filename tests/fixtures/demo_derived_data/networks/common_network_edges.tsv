@@ -1,0 +1,7 @@
+drug	source	target	delta_ecv
+LDN193189	G1	G2	0.8
+LDN193189	G2	G3	0.6
+LDN193189	G3	G4	0.9
+cetuximab	H1	H2	0.8
+cetuximab	H2	H3	0.6
+cetuximab	H3	H4	0.9

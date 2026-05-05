@@ -1,0 +1,12 @@
+drug	patient_id	score	prediction	observed_label
+LDN193189	C120	0.14824065248332086	non-sensitive	0
+LDN193189	C307	1.0	sensitive	1
+LDN193189	C45	1.0	sensitive	1
+LDN193189	C75	0.999999999073747	sensitive	0
+LDN193189	CB3	1.0	sensitive	1
+cetuximab	C111	0.35095285407038723	non-sensitive	0
+cetuximab	C132	0.7021201644308398	sensitive	1
+cetuximab	C45	0.4794237851596217	non-sensitive	1
+cetuximab	C48	0.4924964764451361	non-sensitive	0
+cetuximab	C75	0.38871577170147864	non-sensitive	0
+cetuximab	KUC3	0.8458073979631027	sensitive	1

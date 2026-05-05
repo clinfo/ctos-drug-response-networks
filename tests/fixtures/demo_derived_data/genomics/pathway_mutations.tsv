@@ -1,0 +1,7 @@
+patient_id	drug	pathway	gene	alteration_type
+P1	LDN193189	BMP	SMAD4	missense
+P3	LDN193189	BMP	BMPR2	nonsense
+P4	LDN193189	BMP	BMP6	missense
+P2	cetuximab	EGFR	KRAS	missense
+P4	cetuximab	EGFR	ERBB2	amplification
+P1	cetuximab	EGFR	EGFR	missense

@@ -1,0 +1,9 @@
+drug	node_id	logfc
+LDN193189	G1	1.0
+LDN193189	G2	-0.3
+LDN193189	G3	0.6
+LDN193189	G4	-1.1
+cetuximab	H1	1.0
+cetuximab	H2	-0.3
+cetuximab	H3	0.6
+cetuximab	H4	-1.1

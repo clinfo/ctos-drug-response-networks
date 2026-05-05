@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ctos-drug-response-networks"
+version = "0.1.0"
+description = "Neutral public-facing code for rebuilding targeted-drug response and resistance figure families in colorectal cancer organoids."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pyyaml>=6.0",
+  "pandas>=2.2",
+  "numpy>=1.26",
+  "matplotlib>=3.8",
+  "scipy>=1.11",
+  "networkx>=3.2",
+  "openpyxl>=3.1"
+]
+
+[project.scripts]
+ctos-repro = "ctos_drug_response_networks.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["ctos_drug_response_networks*"]

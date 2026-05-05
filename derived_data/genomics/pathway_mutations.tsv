@@ -1,0 +1,11 @@
+patient_id	drug	pathway	gene	alteration_type
+C132	LDN193189	BMP	SMAD4	missense
+KUC17	LDN193189	BMP	SMAD4	missense
+C166	LDN193189	BMP	BMPR2	missense
+C138	LDN193189	BMP	BMP6	missense
+C45	cetuximab	EGFR	KRAS	missense
+C138	cetuximab	EGFR	KRAS	missense
+C166	cetuximab	EGFR	KRAS	missense
+C307	cetuximab	EGFR	KRAS	missense
+KUC17	cetuximab	EGFR	KRAS	missense
+KUC21	cetuximab	EGFR	KRAS	missense
