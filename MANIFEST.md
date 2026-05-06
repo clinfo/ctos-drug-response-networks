@@ -27,4 +27,4 @@
 ## Notes
 
 - The machine-readable trace lives in `docs/figure_to_script_map.tsv`, `docs/network_manifest.tsv`, and `docs/panel_support_asset_manifest.tsv`.
-- Remaining unresolved release-truth items are recorded in `NONCOMPLIANCE_LEDGER.md` and `RELEASE_CHECKLIST.md`.
+- Release-boundary decisions and validation status are recorded in `NONCOMPLIANCE_LEDGER.md` and `RELEASE_CHECKLIST.md`.
