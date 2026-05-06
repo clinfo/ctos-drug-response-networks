@@ -105,15 +105,15 @@ Bundled derived assets should be interpreted as release assets for the public Ro
 
 ## Release status
 
-Before public release, complete `RELEASE_CHECKLIST.md` and review `NONCOMPLIANCE_LEDGER.md`.
+This repository is the public derived-data release for the accompanying manuscript. The release archive DOI is `10.5281/zenodo.20043756`.
 
-Items that still require release-day confirmation include controlled-access wording and consistency with the manuscript availability statements.
+Release-surface validation and accepted data-boundary limitations are summarized in `RELEASE_CHECKLIST.md` and `NONCOMPLIANCE_LEDGER.md`.
 
 ## Citation
 
 If you use this repository, cite the accompanying manuscript and the archived software release:
 
-Ota, A., and Sakuragi, M. (2026). ctos-drug-response-networks: derived-data release for colorectal cancer organoid drug-response and resistance analyses. Zenodo. https://doi.org/10.5281/zenodo.20043756
+Ota, K., and Sakuragi, M. (2026). ctos-drug-response-networks: derived-data release for colorectal cancer organoid drug-response and resistance analyses. Zenodo. https://doi.org/10.5281/zenodo.20043756
 
 ## License
 
