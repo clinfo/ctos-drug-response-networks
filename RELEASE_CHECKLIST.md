@@ -1,6 +1,6 @@
 # Release checklist
 
-This checklist records the public release state for the GitHub and Zenodo derived-data archive. It is retained as a release validation record, not as a remaining action list.
+This checklist records the public release state for the GitHub repository and associated Zenodo citation metadata. It is retained as a release validation record, not as a remaining action list. This revision retains the existing Zenodo record and does not create a new Zenodo version.
 
 ## Local preflight
 
@@ -25,8 +25,8 @@ This checklist records the public release state for the GitHub and Zenodo derive
 
 - [x] Keep raw sequencing files outside this repository and describe controlled-access handling in `data_stub/ega_access_instructions.md`.
 - [x] Keep foundation-network registry handling outside this repository and describe access in `data_stub/ndex_access_instructions.md`.
-- [x] Reserve the Zenodo new-version DOI: `10.5281/zenodo.20043756`.
-- [x] Update `README.md`, `CITATION.cff`, `.zenodo.json`, and `config/default.yaml` with the reserved DOI and release URL.
+- [x] Retain the existing Zenodo DOI: `10.5281/zenodo.20043756`; no new Zenodo version is created for this revision.
+- [x] Keep `README.md`, `CITATION.cff`, `.zenodo.json`, and `config/default.yaml` aligned with the existing DOI and GitHub repository URL.
 - [x] Align repository metadata with the manuscript-facing GitHub and Zenodo availability wording.
 
 ## GitHub and Zenodo workflow
@@ -34,7 +34,7 @@ This checklist records the public release state for the GitHub and Zenodo derive
 - [x] Initialize a fresh public-release Git history after local preflight.
 - [x] Push the release commits to `clinfo/ctos-drug-response-networks`.
 - [x] Check the GitHub file browser, README rendering, license display, and release-surface files.
-- [x] Prepare the Zenodo archive from the DOI-synchronized Git HEAD.
+- [x] Retain the existing Zenodo record without archive upload, publication, or version creation for this revision.
 - [x] Confirm that the GitHub repository is public.
 
 ## Future extensions
@@ -42,5 +42,5 @@ This checklist records the public release state for the GitHub and Zenodo derive
 The following items are not blockers for this public release:
 
 - archived reference figures for visual diffing against Route A outputs
-- a richer release note that cross-links the controlled-access record, network registry record, manuscript DOI, GitHub release URL, and Zenodo archive after manuscript acceptance
+- a richer release note that cross-links the controlled-access record, network registry record, manuscript DOI, GitHub repository URL, and Zenodo archive after manuscript acceptance
 - a container recipe if future reuse requires stricter environment pinning
