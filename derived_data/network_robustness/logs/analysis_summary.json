@@ -1,0 +1,34 @@
+{
+  "analyses": {
+    "exact_subset_permutation": "success",
+    "response_continuum": "success",
+    "threshold_sensitivity": "success"
+  },
+  "manuscript_blocker_candidates": [],
+  "not_estimable": [],
+  "output_files": [
+    "data/canonical_response_groups.tsv",
+    "data/common_edge_support_long.tsv.gz",
+    "data/common_edges_by_threshold.tsv.gz",
+    "data/delta_ecv_selected_drugs.tsv.gz",
+    "data/exact_permutation_all_subsets.tsv.gz",
+    "data/exact_permutation_summary.tsv",
+    "data/line_support_summary.tsv",
+    "data/moderate_resistant_exact_tests.tsv",
+    "data/reference_vs_canonical_edges.tsv.gz",
+    "data/reference_vs_canonical_summary.tsv",
+    "data/response_continuum_summary.tsv",
+    "data/sensitive_loso_support.tsv",
+    "data/threshold_summary.tsv",
+    "logs/analysis_summary.json",
+    "logs/run_manifest.json",
+    "qc/ecv_column_map.tsv",
+    "qc/qc_summary.json",
+    "qc/reference_edge_diff.tsv",
+    "qc/reference_reproduction_summary.tsv",
+    "qc/response_label_audit.tsv"
+  ],
+  "overall_status": "success",
+  "scientific_warnings": [],
+  "truth_lock_status": "passed"
+}

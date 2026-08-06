@@ -1,0 +1,46 @@
+schema_version: 1
+paths:
+  # Resolve relative paths from this repository root (the command working directory).
+  repo_root: "."
+  ecv_matrix: "/absolute/path/to/TH090_ECv_matrix_full.txt"
+  drug_sensitivity_table: "derived_data/drug_response/drug_sensitivity_table.tsv"
+  reference_common_edges: "derived_data/networks/reference_common_network_edges_v0.1.0.tsv"
+matrix_schema:
+  source_column: "Parent"
+  target_column: "Child"
+  edge_name_column: "name"
+  raw_ecv_prefix: "ECv:"
+  all_condition_codes: ["N", "L", "T", "G", "X", "C"]
+  column_regex: "^ECv:(?P<line>[^_]+)_(?P<condition>[A-Z])_?(?P<replicate>.*)$"
+expected_input:
+  edge_rows: 120024
+  unique_genes: 15185
+  raw_ecv_columns_total: 180
+  replicates_per_line_condition: 3
+analysis:
+  organoid_lines: ["C45", "C132", "C138", "C166", "C307", "C324", "CB3", "KUC3", "KUC17", "KUC21"]
+  pretreatment_condition_code: "N"
+  drugs:
+    LDN193189:
+      condition_code: "L"
+      aliases: ["LDN", "LDN-193189", "LDN193189"]
+    cetuximab:
+      condition_code: "C"
+      aliases: ["Cetuximab", "cetuximab"]
+  thresholds: [0.25, 0.30, 0.35]
+  baseline_threshold: 0.30
+  threshold_operator: "gt"
+response_cutoffs:
+  high_max_inclusive: 0.40
+  resistant_min_inclusive: 0.70
+reference_reproduction:
+  LDN193189:
+    sensitive_lines: ["C45", "C307", "CB3"]
+    expected_edge_count: 15
+  cetuximab:
+    sensitive_lines: ["C45", "C132", "KUC3"]
+    expected_edge_count: 12
+output:
+  save_selected_delta_ecv: true
+  compression: "gzip"
+  float_format: "%.12g"

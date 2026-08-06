@@ -58,6 +58,38 @@ Show the Route B boundary:
 ctos-repro describe-route-b --config config/default.yaml
 ```
 
+## Network robustness analysis
+
+This repository includes an additional CLI route for the network robustness analyses used in the revised manuscript.
+
+### Inputs
+
+- `TH090_ECv_matrix_full.txt` (external intermediate matrix derived from controlled-access transcriptomic data; not included in this repository)
+- `derived_data/drug_response/drug_sensitivity_table.tsv`
+- `derived_data/networks/reference_common_network_edges_v0.1.0.tsv`
+
+### Command
+
+```bash
+ctos-repro network-robustness \
+  --config config/network_robustness.local.yaml \
+  --outdir outputs/network_robustness \
+  --strict
+```
+
+### Outputs
+
+The command generates machine-readable TSV/TSV.GZ/JSON outputs for:
+
+1. ΔECv threshold sensitivity analysis;
+2. full-cohort common-network support across all ten organoid lines;
+3. exact same-size subset permutation;
+4. legacy versus canonical cetuximab common-network comparison.
+
+The command does not generate figures, Excel workbooks, reviewer-response text, or integrated-score analyses.
+
+Small public derived summaries from the strict run are included under `derived_data/network_robustness/`. The full ECv matrix and the large intermediate ΔECv table are not redistributed.
+
 ## Tests
 
 ```bash
@@ -89,7 +121,7 @@ The release bundle includes:
 - normalized drug-sensitivity tables
 - tumor mutation burden summaries
 - pathway-level mutation and copy-number comparator summaries
-- expression, differential-expression, network, qPCR, and score-support tables
+- expression, differential-expression, network, and qPCR follow-up tables
 - a canonical sample map regenerated from sequencing metadata
 - synthetic fixture data for smoke testing
 

@@ -1,0 +1,9 @@
+drug	metric	n_moderate	n_resistant	observed_difference	alternative	exact_p_one_sided	exact_p_two_sided	n_assignments
+LDN193189	mean_delta_ecv	2	5	0.179204538667	moderate_greater_than_resistant	0.333333333333	0.619047619048	21
+LDN193189	median_delta_ecv	2	5	0.112607923333	moderate_greater_than_resistant	0.285714285714	0.619047619048	21
+LDN193189	dre_count_on_reference	2	5	0.5	moderate_greater_than_resistant	0.47619047619	1	21
+LDN193189	coverage_fraction	2	5	0.0333333333333	moderate_greater_than_resistant	0.47619047619	1	21
+cetuximab	mean_delta_ecv	3	3	0.296847838889	moderate_greater_than_resistant	0.25	0.5	20
+cetuximab	median_delta_ecv	3	3	0.296847838889	moderate_greater_than_resistant	0.25	0.5	20
+cetuximab	dre_count_on_reference	3	3	0.333333333333	moderate_greater_than_resistant	0.5	1	20
+cetuximab	coverage_fraction	3	3	0.166666666667	moderate_greater_than_resistant	0.5	1	20

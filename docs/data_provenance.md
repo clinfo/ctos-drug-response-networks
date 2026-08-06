@@ -16,7 +16,7 @@ The repository includes derived assets for the public Route A rebuild. Some asse
 - qPCR long-format tables reconstructed from archived notebook outputs
 - LDN193189 and cetuximab common sensitivity edge sets reconstructed from archived notebook outputs
 - resistant missing-edge tables reconstructed from archived notebook outputs
-- integrated score summaries recomputed from the released logistic coefficients and the bundled qPCR long-format matrix
+- qPCR long-format tables reconstructed from archived notebook outputs
 
 ### Curated public Route A panel-support summaries
 

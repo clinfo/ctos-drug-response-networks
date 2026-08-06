@@ -11,6 +11,11 @@ htmlcov/
 config/paths.local.yaml
 *.local.yaml
 .env
+TH090_ECv_matrix_full.txt
+*_ECv_matrix_full.txt
+*.c4gh
+*.fastq
+*.fastq.gz
 
 # Generated outputs
 /outputs/

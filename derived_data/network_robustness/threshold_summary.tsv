@@ -1,0 +1,7 @@
+drug	threshold	sensitive_lines	common_edge_count	node_count	weak_component_count	largest_component_node_count	largest_component_edge_count	edge_jaccard_vs_baseline	node_jaccard_vs_baseline	baseline_edge_retention	is_baseline_threshold
+LDN193189	0.25	C45,C307,CB3	22	28	9	12	14	0.681818181818	0.535714285714	1	False
+LDN193189	0.3	C45,C307,CB3	15	15	3	11	13	1	1	1	True
+LDN193189	0.35	C45,C307,CB3	12	11	2	9	11	0.8	0.733333333333	0.8	False
+cetuximab	0.25	C45,C132,C324,KUC3	4	8	4	2	1	0.5	0.5	1	False
+cetuximab	0.3	C45,C132,C324,KUC3	2	4	2	2	1	1	1	1	True
+cetuximab	0.35	C45,C132,C324,KUC3	1	2	1	2	1	0.5	0.5	0.5	False

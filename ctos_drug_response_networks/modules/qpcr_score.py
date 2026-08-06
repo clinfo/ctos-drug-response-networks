@@ -10,8 +10,6 @@ from .common import finalize_figure, add_panel_label
 def generate_fig6(config: dict, outdir: str | Path) -> list[str]:
     root = Path(config["paths"]["derived_root"])
     qpcr = pd.read_csv(root / "validation/qpcr_long.tsv", sep="\t")
-    score_path = root / "validation/score_summary.tsv"
-    score = pd.read_csv(score_path, sep="\t") if score_path.exists() else None
 
     fig, axes = plt.subplots(2, 2, figsize=(12, 10))
     panels = [
@@ -36,10 +34,4 @@ def generate_fig6(config: dict, outdir: str | Path) -> list[str]:
         ax.set_title(f"{drug} / {timepoint}")
         add_panel_label(ax, label)
     output = finalize_figure(fig, Path(outdir) / "fig6.png")
-    outputs = [output]
-    if score is not None:
-        score_out = Path(outdir) / "tables/fig6_score_summary.tsv"
-        score_out.parent.mkdir(parents=True, exist_ok=True)
-        score.to_csv(score_out, sep="\t", index=False)
-        outputs.append(str(score_out))
-    return outputs
+    return [output]

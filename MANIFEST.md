@@ -20,8 +20,10 @@
 | Patient-network support tables | public Route A schematic panel support | included | `derived_data/networks/patient_network_nodes.tsv`; `derived_data/networks/patient_network_edges.tsv` |
 | Primer list | exact bundled validation asset | included | `derived_data/validation/primer_list.tsv` |
 | qPCR long-format matrix | exact bundled validation support asset | included | `derived_data/validation/qpcr_long.tsv` |
-| Score coefficients | exact bundled validation asset | included | `derived_data/validation/score_model_*_coefficients.tsv` |
-| Score summary | release-safe recomputed validation summary | included | `derived_data/validation/score_summary.tsv` |
+| Network robustness code | public analysis engine | included | `ctos_drug_response_networks/network_robustness.py` |
+| Network robustness config example | public config template | included | `config/network_robustness.example.yaml` |
+| Network robustness reference edges | truth-lock reference | included | `derived_data/networks/reference_common_network_edges_v0.1.0.tsv` |
+| Network robustness derived summaries | public derived summary assets | included | `derived_data/network_robustness/` |
 | Synthetic smoke fixtures | prove runtime path | included | `tests/fixtures/demo_derived_data/` |
 
 ## Notes

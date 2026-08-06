@@ -1,0 +1,9 @@
+drug	metric	n_non_high	spearman_rho	exact_p_two_sided	n_permutations	status
+LDN193189	mean_delta_ecv	7	0.321428571429	0.497619047619	5040	success
+LDN193189	median_delta_ecv	7	0.214285714286	0.661507936508	5040	success
+LDN193189	dre_count_on_reference	7	0.306318737316	0.511904761905	5040	success
+LDN193189	coverage_fraction	7	0.306318737316	0.511904761905	5040	success
+cetuximab	mean_delta_ecv	6	-0.142857142857	0.802777777778	720	success
+cetuximab	median_delta_ecv	6	-0.142857142857	0.802777777778	720	success
+cetuximab	dre_count_on_reference	6	0.0308606699924	1	720	success
+cetuximab	coverage_fraction	6	0.0308606699924	1	720	success

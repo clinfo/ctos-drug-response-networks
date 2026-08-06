@@ -14,6 +14,7 @@ from .route_b import describe_route_b
 from .runner import reproduce
 from .utils import make_run_id
 from .errors import CtosReproError
+from .network_robustness import run_network_robustness
 
 
 def _figure_list(value: str, config: dict) -> list[str]:
@@ -48,6 +49,13 @@ def make_parser() -> argparse.ArgumentParser:
 
     rb = sub.add_parser("describe-route-b")
     rb.add_argument("--config", required=True)
+
+    robustness = sub.add_parser("network-robustness")
+    robustness.add_argument("--config", required=True)
+    robustness.add_argument("--outdir", default="outputs/network_robustness")
+    robustness.add_argument("--run-id")
+    robustness.add_argument("--strict", action=argparse.BooleanOptionalAction, default=True)
+    robustness.add_argument("--overwrite", action="store_true")
     return parser
 
 
@@ -55,6 +63,17 @@ def main(argv: list[str] | None = None) -> int:
     parser = make_parser()
     args = parser.parse_args(argv)
     try:
+        if args.command == "network-robustness":
+            result = run_network_robustness(
+                config_path=args.config,
+                outdir=args.outdir,
+                run_id=args.run_id,
+                strict=args.strict,
+                overwrite=args.overwrite,
+            )
+            print(json.dumps(result, indent=2, ensure_ascii=False))
+            return 0
+
         if args.command == "build-sample-map":
             df = write_sample_map(args.metadata, args.out)
             print(f"Wrote {len(df)} rows to {args.out}")

@@ -9,7 +9,6 @@ Fig4D	LDN193189	C132	patient_network	derived_data/networks/patient_network_nodes
 Fig4D	LDN193189	C132	patient_network	derived_data/networks/patient_network_edges.tsv	Patient-specific edge table for the public-safe resistant LDN193189 schematic panel.
 Fig5A	LDN193189	common	common_network	derived_data/networks/common_network_edges.tsv	Exact archived common sensitivity edge set for LDN193189.
 Fig5A	LDN193189	common	common_network	derived_data/networks/common_network_nodes.tsv	Common sensitivity node table for LDN193189.
-Fig5B	cetuximab	common	common_network	derived_data/networks/common_network_edges.tsv	Exact archived common sensitivity edge set for cetuximab.
-Fig5B	cetuximab	common	common_network	derived_data/networks/common_network_nodes.tsv	Common sensitivity node table for cetuximab.
+Fig5B	cetuximab	common	canonical_common_network	derived_data/networks/common_network_edges.tsv	Canonical four-line high-sensitivity core using C45, C132, C324, and KUC3; two edges: EPHA2->FOSL1 and IER3->TNS4.
+Fig5B	cetuximab	legacy_reference	reference_common_network	derived_data/networks/reference_common_network_edges_v0.1.0.tsv	Previous three-line overlap using C45, C132, and KUC3; 12 edges; retained only as a truth-lock/reference reproduction asset.
 Fig5C	LDN193189	resistant_group	missing_edge_map	derived_data/networks/resistant_missing_edges.tsv	Exact archived resistant missing-edge set for LDN193189.
-Fig5D	cetuximab	resistant_group	missing_edge_map	derived_data/networks/resistant_missing_edges.tsv	Exact archived resistant missing-edge set for cetuximab.

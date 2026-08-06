@@ -9,7 +9,7 @@
    - `fig3`: expression-only clustering and shared DEGs
    - `fig4`: patient-specific network rewiring views
    - `fig5`: common sensitivity networks and resistant missing-edge maps
-   - `fig6`: qPCR follow-up and optional score summary
+   - `fig6`: node-level qPCR follow-up panels
 4. Emit run manifests and validation reports.
 5. Run the public-surface leakage scan.
 
@@ -33,4 +33,3 @@ The historical network path was:
 
 - The default public responsibility is the derived-data route.
 - The foundation network is treated as a public input asset rather than a default rerun target.
-- The score module remains secondary to the qPCR follow-up outputs.

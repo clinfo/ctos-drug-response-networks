@@ -16,7 +16,7 @@ This file records release-boundary decisions for the public derived-data reposit
 
 The repository currently includes:
 
-- exact or recomputed drug-sensitivity, tumor-mutation-burden, qPCR, score, and selected network support tables
+- exact or recomputed drug-sensitivity, tumor-mutation-burden, qPCR, and selected network support tables
 - a canonical sample map generated from sequencing metadata
 - pathway-level mutation and copy-number comparator summaries for the public Route A rebuild
 - curated expression and patient-network support assets sufficient for schematic figure-family regeneration

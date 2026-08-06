@@ -1,10 +1,11 @@
 tool	version	purpose	notes
-Python	3.11.x	Public Route A runtime	Recommended release-default runtime
-pandas	2.2+	Tabular data handling	Public Route A
-numpy	1.26+	Numeric operations	Public Route A
+Python	3.11.x	Public Route A and network robustness runtime	Recommended release-default runtime
+pandas	2.2+	Tabular data handling	Public Route A and network robustness
+numpy	1.26+	Numeric operations	Public Route A and network robustness
 matplotlib	3.8+	Plotting	Public Route A
-scipy	1.11+	Clustering utilities	Public Route A
-networkx	3.2+	Network visualization	Public Route A
+scipy	1.11+	Clustering and exact/rank statistics	Public Route A and network robustness
+networkx	3.2+	Network visualization and topology summaries	Public Route A and network robustness
+PyYAML	6.0+	Configuration parsing	Public CLI
 openpyxl	3.1+	Excel I/O	Public Route A
 Trimmomatic	0.39	Optional RNA trimming	Documented Route B
 STAR	2.7.8a	Optional RNA alignment	Documented Route B
@@ -16,4 +17,6 @@ GATK / Mutect2	4.2.0	Optional variant calling	Documented Route B
 Ensembl VEP	102.0	Optional variant annotation	Documented Route B
 vcf2maf	1.6.21	Optional VCF to MAF conversion	Documented Route B
 CopywriteR	2.26.0	Optional CNA helper	Optional helper script
+GISTIC2	2.0.23	Copy-number alteration analysis	Documented Route B
+edgeR	3.14.0	Differential expression analysis	Documented Route B
 INGOR	0.14.0	Historical Bayesian-network estimation	Non-default asset producer

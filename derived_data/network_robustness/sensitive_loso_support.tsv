@@ -1,0 +1,8 @@
+drug	held_out_line	reference_lines	reference_edge_count	held_out_mean_delta_ecv	held_out_median_delta_ecv	held_out_dre_count_on_reference	held_out_coverage_fraction	status
+LDN193189	C45	C307,CB3	19	0.928999224561	0.545228833333	15	0.789473684211	success
+LDN193189	C307	C45,CB3	32	0.522503301042	0.2360875	15	0.46875	success
+LDN193189	CB3	C45,C307	26	0.684709238462	0.341834516667	15	0.576923076923	success
+cetuximab	C45	C132,C324,KUC3	2	0.632996716667	0.632996716667	2	1	success
+cetuximab	C132	C45,C324,KUC3	4	0.538524675	0.508862033333	2	0.5	success
+cetuximab	C324	C45,C132,KUC3	12	0.153970588889	0.1497748	2	0.166666666667	success
+cetuximab	KUC3	C45,C132,C324	4	0.751948733333	0.742601066667	2	0.5	success

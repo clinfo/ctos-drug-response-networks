@@ -7,4 +7,4 @@ drug_response	derived	repo	derived_data/drug_response/	drug_sensitivity_table.ts
 genomics_summary	derived	repo	derived_data/genomics/	pathway_mutations.tsv;pathway_cna.tsv	Bundled public Route A comparator summaries.
 expression_support	derived	repo	derived_data/processed_expression/	pathway_expression_long.tsv;pathway_logfc_long.tsv;deg_shared.tsv	Bundled Route A panel-support expression assets.
 network_support	derived	repo	derived_data/networks/	*.tsv	Bundled common-network, patient-network, and resistant-gap support assets.
-validation_support	derived	repo	derived_data/validation/	primer_list.tsv;qpcr_long.tsv;score_summary.tsv;score_model_*_coefficients.tsv	Bundled validation and score support assets.
+validation_support	derived	repo	derived_data/validation/	primer_list.tsv;qpcr_long.tsv	Bundled qPCR follow-up and primer-list support assets.

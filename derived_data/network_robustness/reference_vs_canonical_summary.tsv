@@ -1,0 +1,3 @@
+drug	legacy_reference_lines	canonical_high_lines	reference_edge_count	canonical_edge_count	overlap_edge_count
+LDN193189	C45,C307,CB3	C45,C307,CB3	15	15	15
+cetuximab	C45,C132,KUC3	C45,C132,C324,KUC3	12	2	2
